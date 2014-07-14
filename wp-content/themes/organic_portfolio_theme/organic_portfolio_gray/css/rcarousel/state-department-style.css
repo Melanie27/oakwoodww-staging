@@ -1,0 +1,156 @@
+
+			#carousel-container {
+				width: 980px;
+				position: relative;
+				margin: 0 auto;
+				
+			}
+			
+			#carousel {
+				width: 870px;
+				margin: 0 auto;
+			}
+			
+			#ui-carousel-next, #ui-carousel-prev {
+				width: 60px;
+				height: 240px;
+				background: url(/wp-content/uploads/sites/10/2014/02/arrow-left.png) center center no-repeat;
+				display: block;
+				position: absolute;
+				top: 60px;
+				z-index: 100;
+			}
+
+			#ui-carousel-next {
+				right: 70px;
+				background-image: url(/wp-content/uploads/sites/10/2014/02/arrow-right.png);
+			}
+
+			#ui-carousel-prev {
+				left: 70px;
+			}
+			
+			#ui-carousel-next > span, #ui-carousel-prev > span {
+				display: none;
+			}
+			
+			.slide {
+				margin: 0;
+				position: relative;
+				left:45px;
+			}
+			
+			.slide  h1 {
+				font: 72px/1 Anton, sans-serif;
+				color: #ff5c43;
+				margin: 0;
+				padding: 0;
+			}
+			
+			.slide  p {
+				font-size: 16px;	
+				color: #fff;
+				margin: 0;
+				padding: 0;
+				line-height:24px;
+			}
+			
+			.car-text {
+				width:700px;
+				height:120px;
+				
+			}
+			
+			#carousel-content img {
+			border:solid 1px #f9bf32;	
+			}
+			
+			#slide01 > img {
+				position: absolute;
+				bottom: 0px;
+				left: 0px;
+			}
+			
+			#slide01 > .car-text {
+				position: absolute;
+				left: 0px;
+				bottom: 100px;
+			}
+			
+			#slide02 > img {
+				position: absolute;
+				bottom: 0px;
+				left: 0px;
+			}
+			
+			#slide02 > .car-text {
+				position: absolute;
+				left: 0px;
+				bottom: 100px;
+			}
+			
+			#slide03 > img {
+				position: absolute;
+				bottom: 0px;
+				left: 0px;
+			}
+			
+			#slide03 > .car-text {
+				position: absolute;
+				left: 	0px;
+				bottom: 100px;
+			}
+			
+			#slide04 > img {
+				position: absolute;
+				bottom: 0px;
+				left: 0px;
+			}
+			
+			#slide04 > .car-text {
+				position: absolute;
+				left: 235px;
+				bottom: 85px;
+			}
+			
+			#slide05 > img {
+				position: absolute;
+				bottom: 0px;
+				left: 0px;
+			}
+			
+			#slide05 > .car-text {
+				position: absolute;
+				left: 235px;
+				bottom: 85px;
+			}
+			
+			#slide06 > img {
+				position: absolute;
+				bottom: 0px;
+				left: 0px;
+			}
+			
+			#slide06 > .car-text {
+				position: absolute;
+				left: 235px;
+				bottom: 85px;
+			}
+			
+			#pages {
+				width: 150px;
+				margin: 0px auto 55px;
+				padding-left:50px;
+			}
+			
+			.bullet {
+				background: url(/wp-content/uploads/sites/10/2014/02/page-off.png) center center no-repeat;
+				display: block;
+				width: 24px;
+				height: 24px;
+				margin: 0;
+				margin-right: 15px;
+				float: left;				
+			}
+			
+			

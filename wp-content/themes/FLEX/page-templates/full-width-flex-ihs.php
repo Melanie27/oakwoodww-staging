@@ -1,0 +1,1 @@
+<?php /*Template Name: Full Width IHS*/ ?><?php get_header(6); ?> 	<!--<div id="theDark"></div>	<span class="mainarticle">	</span>-->   	<?php while (have_posts()) : the_post(); ?>			    					<?php the_content(); ?>								<?php endwhile; ?>					    	</body></html>

@@ -1,0 +1,121 @@
+.sTop {
+    padding:0px;
+}
+
+
+
+.property h1 {
+    background-color: rgba(0, 0, 0, 0);
+    color: #F75814;
+    font-family: 'district_lightlight';
+    font-size: 36px;
+    letter-spacing: 0.03em;
+    line-height: 42px;
+    margin: 20px auto 20px;
+    text-align: left;
+    text-transform: uppercase;
+    padding-left:45px;
+}
+
+.overview h2 {
+    background-color: rgba(0, 0, 0, 0);
+    color: #F75814;
+    font-family: 'district_lightlight';
+    font-size: 16px;
+    letter-spacing: 0.03em;
+    line-height: 42px;
+    margin: 5px 0px 0px;
+    text-align: left;
+    text-transform: none;
+    width:inherit;
+}
+
+.address {
+	line-height:16px;
+    padding-left:45px;
+    margin-bottom:10px;
+}
+
+#carousel-container {
+    margin:0px;
+    position: relative;
+    width: 600px;
+}
+
+#carousel-content img {
+    border: none;
+}
+
+#ui-carousel-next, #ui-carousel-prev {
+    background: url("http://sapient.oakwoodworldwide.com/wp-content/uploads/sites/24/2013/10/arrow-left.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+    display: block;
+    height: 240px;
+    position: absolute;
+    top: 170px;
+    width: 60px;
+    z-index: 100;
+}
+
+#ui-carousel-next {
+    background-image: url("http://sapient.oakwoodworldwide.com/wp-content/uploads/sites/24/2013/10/arrow-right.png");
+    right: 400px;
+}
+
+#ui-carousel-prev {
+
+	left:50px;
+}
+
+
+#main {
+
+	width:600px;
+	float:left;
+	margin-right:30px;
+}
+
+.overview {
+	line-height:24px;
+	padding-left:45px;
+    margin-top:25px;
+	
+}
+
+.overview ul {
+
+	margin-left:15px;
+}
+
+.overview li {
+
+	list-style-type:disc;
+	line-height: 26px;
+}
+
+.sidebar {
+	width: 200px;
+	float:left;
+}
+
+.sidebar a.back-button:link, .sidebar a.back-button:visited {
+    color:#F75814;
+}
+
+.sidebar a:link, .sidebar a:visited {
+	color:#666;
+	line-height:24px;
+	font-size:16px;
+    text-decoration: none;
+}
+
+.sidebar a:hover, .sidebar a:active {
+    text-decoration:underline;
+}
+
+.map {
+    margin-top:5px;
+}
+
+.footer #main {
+    margin-top:0px;
+}

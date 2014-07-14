@@ -1,0 +1,221 @@
+			a, a:visited, a:focus, a:active, a:hover { 
+			    outline: none; 
+			}
+			
+			#carousel-container {
+				width: 900px;
+				position: relative;
+				margin: 0 auto;
+				
+			}
+			
+			#carousel {
+				width: 900px;
+				margin: 0 auto;
+			}
+			
+			/* Photo Gallery Carousel Style */
+			#ui-carousel-next, #ui-carousel-prev {
+				width: 60px;
+				height: 240px;
+				background: url(/wp-content/uploads/sites/26/2014/03/btn_prev.jpg) center center no-repeat;
+				display: block;
+				position: absolute;
+				top: 229px;
+				z-index: 100;
+			}
+
+			#ui-carousel-next {
+				right: -81px;
+				background-image: url(/wp-content/uploads/sites/26/2014/03/btn_next.jpg);
+			}
+
+			#ui-carousel-prev {
+				left: -81px;
+			}
+			
+			#ui-carousel-next > span, #ui-carousel-prev > span {
+				display: none;
+			}
+			
+			
+			/* OWW Corporate Carousel Style */
+			#ui-carousel-next-2, #ui-carousel-prev-2 {
+				width: 60px;
+				height: 240px;
+				background: url(/wp-content/uploads/sites/26/2014/03/btn_prev.jpg) center center no-repeat;
+				display: block;
+				position: absolute;
+				top: 130px;
+				z-index: 100;
+			}
+
+			#ui-carousel-next-2 {
+				right: -131px;
+				background-image: url(/wp-content/uploads/sites/26/2014/03/btn_next.jpg) ;
+			}
+
+			#ui-carousel-prev-2 {
+				left: -131px;
+			}
+			
+			
+			#ui-carousel-next-2 > span, #ui-carousel-prev-2 > span {
+				display: none;
+			}
+			
+			
+			
+			/* OWW Brands Carousel Style */
+			#ui-carousel-next-3, #ui-carousel-prev-3 {
+				width: 60px;
+				height: 240px;
+				background: url(/wp-content/uploads/sites/26/2014/03/btn_prev.jpg) center center no-repeat;
+				display: block;
+				position: absolute;
+				top: 200px;
+				z-index: 100;
+			}
+
+			#ui-carousel-next-3 {
+				right: -81px;
+				background-image: url(/wp-content/uploads/sites/26/2014/03/btn_next.jpg) ;
+			}
+
+			#ui-carousel-prev-3 {
+				left: -81px;
+			}
+			
+			
+			#ui-carousel-next-3 > span, #ui-carousel-prev-3 > span {
+				display: none;
+			}
+			
+			
+			
+			.slide {
+				margin: 0;
+				position: relative;
+			}
+			
+			.slide  h1 {
+				font: 72px/1 Anton, sans-serif;
+				color: #ff5c43;
+				margin: 0;
+				padding: 0;
+			}
+			
+			.slide  p {
+				font-size: 16px;	
+				color: #fff;
+				margin: 0;
+				padding: 0;
+				line-height:24px;
+			}
+			
+			.car-text {
+				width:700px;
+				height:120px;
+				
+			}
+			
+			#carousel-content {
+				float: left;
+			}
+			
+			#carousel-content img {
+			border:solid 1px #f9bf32;	
+			}
+			
+			#slide01 > img {
+				position: absolute;
+				bottom: 0px;
+				left: 0px;
+			}
+			
+			#slide01 > .car-text {
+				position: absolute;
+				left: 0px;
+			}
+			
+			#slide02 > img {
+				position: absolute;
+				bottom: 0px;
+				left: 0px;
+			}
+			
+			#slide02 > .car-text {
+				position: absolute;
+				left: 0px;
+			}
+			
+			#slide03 > img {
+				position: absolute;
+				bottom: 0px;
+				left: 0px;
+			}
+			
+			#slide03 > .car-text {
+				position: absolute;
+				left: 	0px;
+			}
+			
+			#slide04 > img {
+				position: absolute;
+				bottom: 0px;
+				left: 0px;
+			}
+			
+			#slide04 > .car-text {
+				position: absolute;
+				left: 235px;
+				bottom: 85px;
+			}
+			
+			#slide05 > img {
+				position: absolute;
+				bottom: 0px;
+				left: 0px;
+			}
+			
+			#slide05 > .car-text {
+				position: absolute;
+				left: 235px;
+				bottom: 85px;
+			}
+			
+			#slide06 > img {
+				position: absolute;
+				bottom: 0px;
+				left: 0px;
+			}
+			
+			#slide06 > .car-text {
+				position: absolute;
+				left: 235px;
+				bottom: 85px;
+			}
+			
+			#pages {
+				width: 105px;
+				margin: 0px auto;
+				padding-left: 45px;
+			}
+			
+			#pages3 {
+				width: 150px;
+				margin: 0px auto 55px;
+				padding-left: 45px;
+			}
+			
+			.bullet {
+				background: url(/wp-content/uploads/sites/26/2014/03/page-off.png) center center no-repeat;
+				display: block;
+				width: 24px;
+				height: 24px;
+				margin: 0;
+				margin-right: 15px;
+				float: left;				
+			}
+			
+			

@@ -1,0 +1,1 @@
+<?php /*Template Name: Full Width Slideshow*/ ?><?php get_header(7); ?> 	<!--<div id="theDark"></div>	<span class="mainarticle">	</span>-->   	<?php while (have_posts()) : the_post(); ?>			    									<?php the_content(); ?>	        							<?php endwhile; ?>					    	</body></html>

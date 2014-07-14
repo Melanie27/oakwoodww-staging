@@ -1,0 +1,93 @@
+.navbar-fixed-top,
+.navbar-fixed-bottom {
+  z-index: 10000;
+}
+.promo-video {
+  z-index: 1;
+}
+#vision-leadership .carousel-caption {
+  bottom: 30px;
+}
+.leaders {
+  padding-left: 30px;
+}
+.awards-honors h1 {
+  font-size: 35px;
+}
+#united-states-canada .carousel-caption,
+#south-america .carousel-caption,
+#emea .carousel-caption,
+#apac .carousel-caption,
+#government .carousel-caption,
+#home .carousel-caption {
+  left: 0px;
+  position: relative;
+  bottom: 75px;
+  padding-top: 0px;
+}
+#united-states-canada .carousel-control .icon-next,
+#south-america .carousel-control .icon-next,
+#emea .carousel-control .icon-next,
+#apac .carousel-control .icon-next,
+#government .carousel-control .icon-next,
+#home .carousel-control .icon-next,
+#united-states-canada .carousel-control .icon-prev,
+#south-america .carousel-control .icon-prev,
+#emea .carousel-control .icon-prev,
+#apac .carousel-control .icon-prev,
+#government .carousel-control .icon-prev,
+#home .carousel-control .icon-prev {
+  display: block;
+  height: 40px;
+}
+#united-states-canada .carousel-control .icon-prev,
+#south-america .carousel-control .icon-prev,
+#emea .carousel-control .icon-prev,
+#apac .carousel-control .icon-prev,
+#government .carousel-control .icon-prev,
+#home .carousel-control .icon-prev {
+  left: 55%;
+}
+/*Small Screens 768 - 992 */
+@media (min-width: 768px) and (max-width: 991px) {
+  #vision-leadership .carousel-caption {
+    bottom: -1px;
+  }
+  #vision-leadership .date-next {
+    left: 0px;
+  }
+  #vision-leadership .date-prev {
+    left: 40px;
+  }
+  .carousel-control .icon-prev,
+  .carousel-control .glyphicon-chevron-left {
+    left: 85%;
+  }
+  .carousel-control .icon-next,
+  .carousel-control .glyphicon-chevron-right {
+    right: 25%;
+  }
+  .executive-committee h1 {
+    font-size: 34px;
+  }
+}
+/* Medium Screens 992 - 1200 */
+@media (min-width: 992px) and (max-width: 1200px) {
+  #united-states-canada .carousel-caption,
+  #south-america .carousel-caption,
+  #emea .carousel-caption,
+  #apac .carousel-caption,
+  #government .carousel-caption,
+  #home .carousel-caption {
+    left: 15px;
+    right: 0%;
+  }
+  #united-states-canada .carousel-control .icon-prev,
+  #south-america .carousel-control .icon-prev,
+  #emea .carousel-control .icon-prev,
+  #apac .carousel-control .icon-prev,
+  #government .carousel-control .icon-prev,
+  #home .carousel-control .icon-prev {
+    left: 55%;
+  }
+}

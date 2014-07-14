@@ -1,0 +1,1109 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+	.wrap { width:1140px;}
+	
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+.wrap { width:1140px;}
+}
+
+.wrap {
+overflow:hidden;	
+}
+
+#inner {
+	max-width:1140px;	
+}
+
+#flex-landing-hero {
+	max-width:100%;
+		
+}
+
+body {
+	background-color: #999 !important;	
+}
+
+h3, .s2 p, .s4 p, .s6 p, .s8 p {
+color:#333;
+	
+}
+
+ .s3 p, .s5 p, .s7 p {
+ 
+ color:#666;
+	
+}
+
+
+.sTop {
+	background-color: #fff;
+	min-height:0px;	
+}
+
+.sTop h1 {
+	text-align:left;
+	position:relative;
+	color:#666;
+	width: 460px;
+	font-family: 'district_thinthin';
+	bottom:310px;
+	left:40px;
+	font-weight:normal;
+	font-size:36px;
+	letter-spacing: 0em;
+	line-height:36px;
+}
+
+
+#oakwood-logo {
+	margin: 0 0 13px 5px;
+	height:49px;
+	
+}
+
+.company-logo {
+    float: right;
+}
+
+#sample-2014-logo {
+	float:right;	
+}
+
+#oakwood-logo img {
+	padding-bottom:10px;	
+}
+
+p {
+	font-family: 'district_lightlight';
+	
+}
+
+p.small-print {
+	color:#333;
+	font-size: 12px;
+	line-height: 18px;	
+}
+
+.request-wrapper {
+	width:150px;
+	position: absolute;
+	z-index:30000;
+}
+
+.request-now {
+	position: fixed;
+  	bottom: 0;
+    margin-top: 342px;
+	margin-left:790px;
+    z-index:20000;
+    background-color:#F75814;
+    width: 235px;
+	height: 30px;
+	padding: 8px 10px 17px 15px;
+	text-align:center;
+	font-size:24px;
+	
+}
+
+.request-now.fixed {
+  	position: fixed;
+  	bottom: 0;
+}
+
+.request-now h2 {
+	font-size:27px;
+	color:white;
+	font-family: 'district_boldbold';
+	text-align:left;
+	margin-bottom:8px;	
+}
+
+.request-now p {
+	color:white;
+	font-family: 'district_boldbold';
+	text-align:left;
+	margin-bottom:4px;
+		
+}
+
+.request-now a:link, .request-now a:visited {
+	color:white;
+	font-family: 'district_lightlight';
+	display: block;	
+	margin-left:auto;
+	margin-right:auto;
+	border-radius: 5px;
+	padding-top:3px;
+	opacity:1;
+		
+}
+
+.request-now a:hover, request-now a:active {
+	text-decoration:underline;	
+	
+}
+
+.subNavBtn {
+    font-size: 15px;
+    height: 35px;
+    margin: 0;
+    padding: 15px 15px 0;
+    text-align: center;
+    text-decoration: none;
+    width: auto;
+	color: white;
+	
+}
+
+a.subNavBtn:link, a.subNavBtn:visited {
+	transition: color 0.5s linear;		
+}
+
+a.subNavBtn:hover, a.subNavBtn:active {
+	color:black;	
+}
+
+.sTop h2 {
+	font-family: 'district_thinthin';
+	font-size:28px;
+	color: #666;
+	width: 270px;
+	position: relative;
+	bottom: 300px;
+	left: 40px;
+	line-height:36px;
+	text-align:left; 
+}
+
+.subMenu {
+	background-color:#f75814;
+	top: 75px;
+}
+
+.subMenu .inner {
+	height:auto;	
+}
+
+.inner-submenu {
+	display:block;
+	width: 1000px;
+	padding-left:0px;
+}
+
+.inner {
+	font-family: 'district_lightlight';
+	font-size:16px;
+	width:1000px;
+	padding: 10px 0px 30px 0px;
+	height:537px;
+}
+
+.oracle-nav {
+	padding-right: 20px !important;	
+}
+
+.sTop .inner {
+	padding: 0px 0px 0px 0px;
+	width:1140px;
+		
+}
+
+.content .inner {
+	padding: 20px 0px 20px 0px;
+	height:auto;
+}
+
+#logo-wrapper {
+	margin-left:100px;
+	float:left;
+	width:940px;
+	padding-top:12px;
+	
+}
+
+#oakwood-logo {
+	float:left;	
+}
+
+#logo {
+	height:125px;
+	background-color: #f5f5f5;	
+}
+
+#client-logo-wrapper {
+	background-color:#942478;
+	width:155px;
+	height:58px;
+	float:right;
+	line-height: 28px;
+    text-align: center;
+	font-size:24px;
+	color:white;
+	font-family: 'district_lightlight';
+		
+}
+
+
+/*Corporate Housing */
+
+.section .corporate-housing h2 {
+    width: 720px;
+	margin-top:0px;
+}
+
+.flex .corporate-housing h2 {
+	margin-bottom:10px;	
+}
+
+.flex .corporate-housing h3 {
+	margin-bottom:40px;
+	color:#666;	
+}
+
+.corporate-housing #main {
+	width:925px;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
+.corporate-housing #main img {
+    float: left;
+    margin-right: 75px;
+}
+
+.flex .corporate-housing #main img {
+    float: left;
+    margin-right: 30px;
+}
+
+.corporate-housing article {
+    float: left;
+    width: 510px;
+}
+
+.flex .corporate-housing article {
+    float: left;
+    width: 375px;
+}
+
+.section .corporate-housing {
+    padding: 45px 0 35px;
+}
+
+.corporate-housing.altair h2 {
+    font-size: 36px;
+    line-height: 42px;
+    margin: 20px auto 40px;
+    width: 640px;
+}
+
+.corporate-housing.altair article {
+    float: left;
+    width: 925px;
+}
+
+/*WHATS NEW */
+
+.inner.whats-new {
+	width:770px;
+}
+
+.whats-new p {
+	color: #666;
+	line-height:24px;	
+}
+
+
+li {
+	list-style-type:none;	
+}
+
+li.new-list {
+	height:150px;	
+}
+
+.project-desc {
+	width:525px;
+	float:left;
+}
+
+p.orange-text {
+	margin-bottom:0px;	
+}
+
+.project-img {
+	width:138px;
+	height:	93px;
+	background-color: #F75814;
+	float:left;
+	margin-right:100px;
+	display:block;
+}
+
+.content .inner.whats-new {
+	padding-bottom:50px;	
+}
+
+/*PROPERTIES*/
+ .content .inner.properties {
+	width:765px;
+	padding-bottom:70px;
+} 
+
+.properties h2 {
+	width:555px;
+	margin-bottom:45px;	
+}
+
+.properties .project-img {
+	margin-top:5px;	
+}
+
+.properties p {
+	color: #666;
+	line-height:24px;	
+}
+
+
+
+.more-info a:link, .more-info a:visited {
+	color:white;
+	background-color: #F75814;
+	width:110px;
+	height: 28px;
+	line-height:28px;
+	display:block;
+	margin: 0px auto;
+	text-align: center;
+	text-decoration: none;		
+}
+
+.more-info a:hover, more-info a:active {
+	text-decoration: underline;
+}
+
+
+
+/*In Apartment*/
+
+.in-apartment .industry-expertise {
+	margin-left: auto;
+    margin-right: auto;
+    width: 930px;
+	color:#666;
+}
+
+.in-apartment li {
+    display: block;
+    float: left;
+    margin-right: 85px;
+    width: 235px;
+}
+
+.in-apartment h3 {
+    height: 105px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    text-indent: -9999px;
+}
+
+.in-apartment h4 {
+    font-weight: normal;
+    margin-bottom: 10px;
+    margin-left: 0;
+    width: 265px;
+    font-size: 20px;
+    color: #2e3030;
+    
+}
+
+.in-apartment p {
+    color: #666;
+    line-height: 22px;
+}
+
+.in-apartment .amenities {
+    display: block;
+    width: 275px;
+}
+
+.in-apartment #amen1.amenities li {
+    width: 250px;
+}
+
+.in-apartment .amenities li {
+    
+	float: none;
+    line-height: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 290px;
+}
+
+.in-apartment #amen3.amenities li {
+    
+	padding-left: 15px;
+    width: 270px;
+}
+
+h3.simplified-search {
+	width: 33px;
+	height: 35px;
+	background: url(/wp-content/uploads/2014/02/oracle_benifits.png) 0 0 no-repeat;
+	position: relative;
+	top: 50px;
+	right: 150px;
+}
+
+h3.all-inclusive {
+	width: 33px;
+	height: 27px;
+	background: url(/wp-content/uploads/2014/02/oracle_benifits.png) 0 -35px no-repeat;
+	position: relative;
+	top: 50px;
+	right: 150px;
+	margin-bottom: 28px;
+}
+
+h3.move-in {
+	width: 33px;
+	height: 27px;
+	background: url(/wp-content/uploads/2014/02/oracle_benifits.png) 0 -62px no-repeat;
+	position: relative;
+	top: 50px;
+	right: 150px;
+	margin-bottom: 28px;
+}
+
+
+
+
+
+/*FAQs*/
+
+.faqs #main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 780px;
+}
+
+.faqs .important-info {
+    margin-bottom: 40px;
+    text-align: center;
+    line-height: 20px;
+}
+
+#cssmenu li {
+	margin-bottom:10px;	
+	list-style-type:disc;
+	color:#666;
+}
+
+#cssmenu .faqs li {
+	 line-height: 24px;
+    list-style-type: none;
+    margin-bottom: 0;
+    padding-left: 15px;
+	color:#666;
+}
+
+
+#cssmenu .faqs {
+	padding-bottom:35px;
+	padding-top:7px;
+}
+
+#cssmenu .faqs li:before {
+ 	content: " - "; 
+}
+
+#cssmenu a:link, #cssmenu a:visited {
+	color: #F75814;
+	text-decoration:none;
+	
+}
+
+
+
+
+/* Photo Gallery */
+.photo-gallery {
+	min-height: 600px;
+}
+
+.photo-gallery #main {
+	margin-left: auto;
+	margin-right: auto;
+	width: 880px;
+}
+
+.photo-gallery .photos li {
+	float: left;
+	margin-right: 65px;
+	margin-top: 40px;
+}
+
+.photo-gallery .photos li.no-margin {
+	margin-right: 0px;
+}
+
+.photo-gallery .photos img {
+	border: solid 5px white;
+	-webkit-box-shadow: 7px 7px 5px rgba(50, 50, 50, 0.3);
+	-moz-box-shadow: 7px 7px 5px rgba(50, 50, 50, 0.3);
+	box-shadow: 7px 7px 5px rgba(50, 50, 50, 0.3);
+	width: 237px;
+	height: 153px;
+}
+
+
+
+/*TESTIMONIALS*/
+
+.testimonials h2 {
+	margin-bottom:0px;	
+}
+
+/*TQSE*/
+
+.inner.tqse {
+	width:820px;
+	height:430px;	
+}
+
+.tqse h2 {
+	margin-bottom:55px;	
+}
+
+.tqse #main img {
+	float:left;	
+	margin-right:100px;
+}
+
+.tqse article {
+	float:left;
+	width: 415px;
+}
+
+.tqse article p {
+	line-height:22px;	
+}
+
+
+/*Shuttle */
+
+.s7 p {
+	color: #F75814;	
+}
+
+.shuttle h3 {
+	color:#666;	
+}
+
+.shuttle h2 {
+	margin-bottom:5px;
+}
+
+.shuttle #main {
+	width: 500px;
+	margin: 0px auto;
+	padding: 45px 0px;	
+}
+
+.shuttle-schedules li {
+	width:120px;
+	float:left;
+	text-align:center;
+	color: #F75814;
+	margin:0px 20px;
+	
+}
+
+.shuttle-schedules a:link, .shuttle-schedules a:visited {
+	color: #F75814;
+	text-decoration:none;
+}
+
+.shuttle-schedules a:hover, .shuttle-schedules a:active {
+	text-decoration: underline;	
+}
+
+/*DAY CARE */
+
+.content .inner.day-care {
+	padding-bottom:70px;	
+}
+
+.day-care h3 {
+ 	text-transform: uppercase;
+	color: #F75814;
+	font-size:18px;	
+}
+
+.care-info li.services{
+	text-align:center;
+	margin-bottom:35px;	
+}
+
+.day-care a:link, .day-care a:visited {
+	color: #333;
+	line-height:20px;
+	text-decoration:none;
+	
+}
+
+.day-care a:hover, .day-care a:active {
+	text-decoration: underline;	
+}
+
+
+/*OWW Brands*/
+
+.content .inner.oww-brands {
+	padding: 40px 0px 50px;	
+}
+
+.oww-brands h3 {
+    line-height: 24px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 725px;
+}
+
+.oww-brands h4 {
+    height: 40px;
+    margin-bottom: 10px;
+    text-align: center;
+    width: 385px;
+}
+
+.oww-brands #main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+.oww-brands li {
+    
+	display: block;
+    float: left;
+    height: 375px;
+    list-style-type: none;
+    width: 380px;
+}
+
+.oww-brands li#oakwood-brands {
+    
+	margin-right: 30px;
+}
+
+.flex .content .inner.oww-brands {
+	height:580px;	
+}
+
+.orange-text, .s2 p.orange-text, .s3 p.orange-text {
+    
+	color: #F75814;
+}
+
+/*Marriott Rewards*/
+
+.content .inner.marriott-rewards {
+
+	height:460px;
+		
+}
+
+.marriott-rewards h3 {
+
+    line-height: 24px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 575px;
+	
+}
+
+.marriott-rewards #main {
+    
+	margin-left: auto;
+    margin-right: auto;
+    width: 715px;
+	
+}
+
+.marriott-rewards img {
+    
+	margin-right: 20px;
+	float:left;
+}
+
+/*About OWW*/
+
+
+
+.about-oww #main {
+	width: 880px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.about-oww h2 {
+    
+	line-height: 24px;
+    margin: 50px auto 30px;
+    width: 590px;
+}
+
+.about-oww h3 {
+    
+	line-height: 24px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 590px;
+	color: #666;
+}
+
+.about-oww h4 {
+	 height: 70px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
+
+.about-oww .industry-expertise {
+   
+    margin-left: auto;
+    margin-right: auto;
+    width: 930px;
+}
+
+.about-oww li {
+    
+	display: block;
+    float: left;
+    list-style-type: none;
+    margin-right: 15px;
+    width: 295px;
+}
+
+.about-oww .amenities {
+	
+	width:275px;
+	display:block;	
+}
+
+.about-oww .amenities li {
+	
+	width:290px;
+	line-height:24px;
+	float:none;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.about-oww .amenities#amen1 li {
+	
+	width:250px;	
+}
+
+
+.about-oww .amenities#amen3 li {
+	
+	width:270px;
+	padding-left:15px;		
+}
+
+
+/*Resources */
+
+.resources h4 {
+    font-weight: normal;
+    height: 40px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 265px;
+}
+
+.resources a:link, .resources a:visited {
+    color: #F75814;
+    text-decoration: none;
+}
+
+
+/*Our Team*/
+
+.content .inner.our-team {
+	height:925px;
+}
+
+ .inner.our-team {
+	width:950px;	
+}
+
+.our-team .col1,.our-team .col3 {
+	border-right: solid 2px #b9b9b9;
+	margin-bottom: 75px;
+}
+
+.our-team .col2 {
+	margin-bottom: 75px;
+}
+
+.our-team .col4 {
+	float: right;
+}
+
+
+.our-team .col1, .our-team .col2, .our-team .col3, .our-team .col4 {
+	width: 470px;
+	text-align: center;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.our-team #raleigh, #charlotte {
+	margin-bottom: 75px;
+}
+
+.our-team .cities h4 {
+	color: #F75814;
+	font-weight: normal;
+	margin-bottom: 10px;
+}
+
+.our-team.section.content li {
+	list-style-type:none;	
+}
+
+
+.our-team h3 {
+	color: #666666;
+    line-height: 24px;
+    margin-bottom: 55px;
+	margin-left: auto;
+	margin-right: auto;
+    text-align: center;
+    width: 610px;
+}
+
+
+.our-team p {
+	color:#666;	
+}
+
+
+.our-team .cities p, .manager p {
+	margin-bottom:5px;	
+}
+
+.our-team .local-coordinator {
+	text-transform: uppercase;
+}
+
+.our-team .manager {
+	width:500px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+		
+}
+
+.our-team .email a:link, .email a:visited {
+	color: #F75814;
+	text-decoration: none;
+}
+
+
+
+
+/*Section Styles */
+
+.section.s1, .section.s3, .section.s5, .section.s7, .section.s9 {
+	background-color: white;
+	color: #666;
+} 
+
+.section.s2, .section.s4, .section.s6, .section.s8, .section.s10 {
+	background-color: #f2f2f2;
+}
+
+.section.content {
+	padding-bottom:0px;
+}
+
+
+h2 {
+	color:#2e3030;
+	font-size:36px;
+	text-transform: uppercase;
+	letter-spacing: .05em;
+	background-color:transparent;
+	margin-top:20px;
+	margin-bottom:30px;
+	margin-left:auto;
+	margin-right:auto;
+	font-family: 'district_lightlight';
+	text-align: center;
+	width:840px;
+	letter-spacing: 0.03em;
+	line-height:42px;
+}
+
+ h3 {
+	font-size:16px;
+	font-family: 'district_lightlight';
+	font-weight:normal;	
+	text-align:center;
+}
+
+
+.col1, .col2 {
+	color:white;	
+}
+
+.col1 img, .col2 img {
+	float:left;		
+}
+
+p.text, .text {
+	line-height:24px;
+		
+}
+
+ul.text {
+	margin-left:10px;	
+}
+
+.text {
+	padding-top:0px;	
+}
+
+.text li {
+	line-height:24px;	
+}
+
+.text.services {
+	padding-bottom: 20px;	
+}
+
+.text.services li:last-child {
+	margin-bottom:20px;
+}
+
+.small-print {
+	font-style:italic;
+	font-size:13px;
+}
+
+ul.column {
+	padding-top:30px;
+	padding-left:40px;	
+}
+
+.column-header {
+	text-align:center;	
+	font-weight:normal;
+	width:260px;
+	line-height:24px;
+	font-size:16px;
+	margin-bottom:15px;
+}
+
+p.contact-representative {
+	float:right;
+	margin-top:10px;
+	font-size: 18px;
+	position:relative;
+	right:60px;
+}
+
+p.contact-representative a:link, p.contact-representative a:visited {
+	color: #F75814;	
+	transition: color 0.5s ease;
+}
+
+p.contact-representative a:hover, p.contact-representative a:active {
+	color: black;
+}
+
+/*Footer*/
+.footer .btn-footer {
+    background-color: #F75814;
+    bottom: 0;
+    color: white;	
+    display: block;
+    font-size: 20px;
+    height: 60px;
+    line-height: 60px;
+    left:840px;
+    position: fixed;
+    text-align: center;
+    width: 325px;
+    z-index: 20000;
+}
+
+.footer {
+	color: #666666;
+	font-size: 14px;
+	background-color: #fff;
+}
+
+.footer .inner {
+	height:140px;
+}
+
+.footer #main {
+	width: 850px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;	
+}
+
+.footer #copyright {
+	float:left;
+	font-size:20px;
+	
+}
+
+#copyright p {
+	color:#666;
+	font-size: 14px;	
+}
+.footer #scroll-top {
+	float:right;
+}
+
+.footer #scroll-top a:link, .footer #scroll-top a:visited {
+	color: #666;
+}
+
+
+/*IE7 styles*/
+
+
+.ie7 .subMenu.smint .inner {
+	width: 1020px;	
+	
+}
+
+.ie7 #s5 {
+	width:205px;	
+}
+
+.ie7 .s5 h2 {
+	padding-top:15px;
+	border:solid 1px red;	
+}
